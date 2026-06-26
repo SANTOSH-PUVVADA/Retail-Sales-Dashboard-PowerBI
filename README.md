@@ -1,5 +1,3 @@
-# Retail-Sales-Dashboard-PowerBI
-Interactive Retail Sales Dashboard built using Power BI.
 # Retail Sales Dashboard | Power BI
 
 ## Project Overview
