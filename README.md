@@ -31,9 +31,5 @@ This project is an interactive Retail Sales Dashboard developed in Power BI to a
 - Data Modeling
 - Data Visualization
 
-## Dashboard Preview
-
-(Add your screenshots here)
-
 ## Author
 Santosh Puvvada
